@@ -25,3 +25,20 @@
 3. `chmod a+x install.sh`
 4. `./install.sh`
 5. start installing , thats all
+
+## The script consists of the following applications :
+* chrome
+* brave
+* vlc
+* shotwell
+* htop
+* neovim
+* sublimetext
+* vscode
+* zoom
+* teams
+* spotify
+* discord
+* signal
+ 
+

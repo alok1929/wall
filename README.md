@@ -8,7 +8,19 @@
  -  Minimalistic - Linux desktop wallpapers mostly
  -  Mac - *it is what it says*
  - View - *find out by cloning it*
+ - japan da - weird japan wallpapers
+ - windowsfeelu- windows wallpapers
+ - lockscreen -lockscreen wallpapers
 
 ### Copy and paste this in your terminal or git bash :
 
-## `git clone https://github.com/alok1929/wall`
+### `git clone https://github.com/alok1929/wall`
+
+
+
+# Running the bashscript for installing applications :
+1. clone the repo
+2. `cd wall`
+3. `chmod a+x install.sh`
+4. `./install.sh`
+5. start installing , thats all

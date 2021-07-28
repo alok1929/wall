@@ -19,7 +19,8 @@
 
 
 # Running the bashscript for installing applications :
-1. clone the repo
+### all should be copy pasted in the terminal 
+1. clone the repo by typing `git clone https://github.com/alok1929/wall` in your terminal
 2. `cd wall`
 3. `chmod a+x install.sh`
 4. `./install.sh`

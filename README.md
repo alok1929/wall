@@ -29,11 +29,4 @@
 ## The script consists of the following applications :
 * chrome
 * brave
-* vlc
-* shotwell
-* htop
-* neovim
-* sublimetext
-* vscode
-* zoom
-
+* vlv

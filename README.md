@@ -36,9 +36,4 @@
 * sublimetext
 * vscode
 * zoom
-* teams
-* spotify
-* discord
-* signal
- 
 

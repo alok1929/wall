@@ -26,7 +26,4 @@
 4. `./install.sh`
 5. start installing , thats all
 
-## The script consists of the following applications :
-* chrome
-* brave
-* vlv
+
